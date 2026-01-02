@@ -17,7 +17,7 @@
         "itemType": 1,
         "itemName": "Inferno Staff",
     },
-     "test-item": {
+     "test-item2": {
         "rewardType": "Item",
         "itemType": 2,
         "itemName": "Lich King's Gauntlet",
