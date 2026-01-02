@@ -1,0 +1,14 @@
+{
+    "candy-back-500": {
+        "rewardType": "Candy",
+        "amount": 500
+    },
+    "sub-to-sim": {
+        "rewardType": "Coins",
+        "amount": 1000
+    },
+    "free-pet-2026": {
+        "rewardType": "Pet",
+        "amount": 1
+    }
+}
