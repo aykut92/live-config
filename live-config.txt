@@ -15,11 +15,11 @@
     "test-item": {
         "rewardType": "Item",
         "itemType": 1,
-        "itemName": "Inferno Staff",
+        "itemName": "Inferno Staff"
     },
      "test-item2": {
         "rewardType": "Item",
         "itemType": 2,
-        "itemName": "Lich King's Gauntlet",
+        "itemName": "Lich King's Gauntlet"
     }
 }
