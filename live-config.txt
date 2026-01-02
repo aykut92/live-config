@@ -1,14 +1,25 @@
 {
-    "candy-back-500": {
-        "rewardType": "Candy",
-        "amount": 500
-    },
-    "sub-to-sim": {
-        "rewardType": "Coins",
-        "amount": 1000
-    },
-    "free-pet-2026": {
-        "rewardType": "Pet",
+    "test-potion": {
+        "rewardType": "Potion",
+        "potionName": "x2Damage",
         "amount": 1
+    },
+    "test-stat-reset": {
+        "rewardType": "StatResetCredit",
+        "amount": 1
+    },
+    "test-boss-respawn": {
+        "rewardType": "BossRespawnCredit",
+        "amount": 1
+    },
+    "test-item": {
+        "rewardType": "Item",
+        "itemType": 1,
+        "itemName": "Inferno Staff",
+    },
+     "test-item": {
+        "rewardType": "Item",
+        "itemType": 2,
+        "itemName": "Lich King's Gauntlet",
     }
 }
